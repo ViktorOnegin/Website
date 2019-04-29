@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: Arial;
+	padding: 10px;
+	background-color: black;
+}
+
+.Header {
+	text-align: center;
+	padding: 30px;
+}
+
+.Header h1 {
+	font-size: 38px;
+}
+
+.Header p {
+	font-size: 20px;
+}
+
+.navigation {
+	overflow: hidden;
+  	background-color: black
+}
+
+.navigation a {
+	float: left;
+  	display: block;
+  	color: white;
+  	padding: 15px 20px;
+  	text-decoration: none;
+}
+
+.navigation a:hover {
+	background-color: red;
+}
+
+.TopImage {
+	
+}
+
+.Description {
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	
+}
+
+.FavoriteFilms {
+	text-align: center;
+	padding-top: 15px;
+}
+
+.films {
+	display: flex;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 20px;
+}
+
+.film {
+  	padding-top: 1px;
+	padding-left: 38px;
+}
+
+.Footer {
+	text-align: center;
+}
+
+
