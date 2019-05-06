@@ -2,10 +2,6 @@
 	box-sizing: border-box;
 }
 
-section{
-	width: 100%;
-}
-
 body {
 	font-family: Arial;
 	padding: 10px;
@@ -45,38 +41,4 @@ body {
 .navigation a:hover {
 	background-color: red;
 }
-
-.TopImage {
-	
-}
-
-.Description {
-	text-align: center;
-	padding-top: 30px;
-	padding-bottom: 30px;
-	
-}
-
-.FavoriteFilms {
-	text-align: center;
-	padding-top: 15px;
-}
-
-.films {
-	display: flex;
-	width: 100% ;
-  	min-width: 900px ;
-   	min-height: 500px ;
-}
-
-.film {
-	padding-left: 90px;
-	width: 100% ;
-	min-width: 300px ;
-}
-
-.Footer {
-	text-align: center;
-}
-
 
