@@ -41,3 +41,74 @@ body {
 .navigation a:hover {
 	background-color: red;
 }
+
+.Marvel p {
+	color: white;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+.MarvelFilms h1{
+	color: red;
+	text-align: center;
+}
+
+.MarvelFilms p {
+	color: white;
+	text-align: center;
+	margin-bottom: 50px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+.MarvelStudios h1 {
+	color: red;
+	text-align: center;
+}
+
+.MarvelStudios p {
+	color: white;
+	text-align: center;
+	margin-bottom: 50px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+.MarvelCinematic h1 {
+	color: red;
+	text-align: center;
+}
+
+.MarvelCinematic p {
+	color: white;
+	text-align: center;
+	margin-bottom: 50px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+.MarvelFilmsList {
+	margin-left: 30px;
+}
+
+.MarvelFilmsList h2 {
+	color: red;
+}
+
+.MarvelFilmsList h3 {
+	color: red;
+}
+
+.MarvelFilmsList p {
+	color: red;
+	margin-top: -15px;
+	margin-bottom: 10px;
+}
+
+.MarvelFilmsList ol {
+	color: white;
+	margin-bottom: 30px;
+}
